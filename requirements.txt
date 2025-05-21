@@ -1,0 +1,23 @@
+# MT5 and Trading
+MetaTrader5==5.0.4993
+pandas>=2.2.0
+numpy>=1.26.0
+ta>=0.10.2
+
+# Telegram Integration
+python-telegram-bot==20.7
+httpx>=0.24.1
+
+# Environment and Utilities
+python-dotenv==1.0.0
+schedule>=1.2.0
+
+# Async Support
+aiohttp>=3.9.1
+
+# Logging and Monitoring
+colorlog>=6.7.0
+
+# Added from the code block
+nest_asyncio==1.6.0
+matplotlib 
