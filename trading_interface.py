@@ -516,9 +516,8 @@ class ModernTradingInterface:
         # Contact Information
         contact_text = """
         Contact Information:
-        Discord: your_discord_username
-        Telegram: @your_telegram_username
-        Facebook: your_facebook_link
+        Telegram: @lyheryt
+        Facebook: Hong Lyher
         """
         
         contact_label = ttk.Label(
